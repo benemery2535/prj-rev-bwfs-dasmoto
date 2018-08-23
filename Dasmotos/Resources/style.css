@@ -1,0 +1,42 @@
+h1 {
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+    font-weight: bold;
+}
+
+h1, h2, h3, p {
+    font-family: Helvetica;
+}
+
+span{
+	font-weight: bold;
+	color: blue;
+}
+
+#brush{
+	background-color: mediumspringgreen;
+	font-size: 32px;	
+	font-weight: bold;
+	color: white;
+}
+
+#frame{
+	background-color: lightcoral;
+	font-size: 32px;	
+	font-weight: bold;
+	color: white;
+}
+
+#paint{
+	background-color: skyblue;
+	font-size: 32px;	
+	font-weight: bold;
+	color: white;
+}
+
+.item{
+/*hello from Australia! Not sure how to use this class selector???*/
+/*also...what does the webkit stuff mean? It is regularly mentioned when using CSS inspector tool in Chrome? is it just the default settings??? THANK YOU*/
+}
